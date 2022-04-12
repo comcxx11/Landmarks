@@ -16,6 +16,7 @@
 		B4575E5E28041B1C00F2BAFA /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = B4575E5D28041B1C00F2BAFA /* landmarkData.json */; };
 		B4575E6028041B5100F2BAFA /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4575E5F28041B5100F2BAFA /* Landmark.swift */; };
 		B4575E6228041C2000F2BAFA /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4575E6128041C2000F2BAFA /* ModelData.swift */; };
+		B4575E672805339700F2BAFA /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4575E662805339700F2BAFA /* LandmarkRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		B4575E5D28041B1C00F2BAFA /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = landmarkData.json; sourceTree = "<group>"; };
 		B4575E5F28041B5100F2BAFA /* Landmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
 		B4575E6128041C2000F2BAFA /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
+		B4575E662805339700F2BAFA /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				B4575E4D2804108B00F2BAFA /* ContentView.swift */,
 				B4575E59280415A700F2BAFA /* CircleImage.swift */,
 				B4575E5B2804168D00F2BAFA /* MapView.swift */,
+				B4575E662805339700F2BAFA /* LandmarkRow.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 				B4575E4C2804108B00F2BAFA /* LandmarksApp.swift in Sources */,
 				B4575E5A280415A700F2BAFA /* CircleImage.swift in Sources */,
 				B4575E6028041B5100F2BAFA /* Landmark.swift in Sources */,
+				B4575E672805339700F2BAFA /* LandmarkRow.swift in Sources */,
 				B4575E6228041C2000F2BAFA /* ModelData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
